@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mardhamardiya18
 - 👀 I’m interested in Web developer
-- 🌱 I’m currently learning Laravel Livewire
 - 💞️ I’m looking to collaborate on some project
 - 📫 How to reach me "just contact on my email at mardhamardiya.18@gmail.com
 
